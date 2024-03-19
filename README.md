@@ -44,6 +44,7 @@ Review the page to ensure all content is accurate and up-to-date.
 Make any final adjustments to the layout or styling as needed.
 
 Projects Screens :
+
 ![img1](https://github.com/Nikhil2800/-Responsive-Company-Member-Team-Page/assets/154686273/186cfb24-93ce-41ea-a448-299623399416)
 ![img2](https://github.com/Nikhil2800/-Responsive-Company-Member-Team-Page/assets/154686273/72e29a8f-1703-4e67-b0ad-c73c55d7d93a)
 ![img3](https://github.com/Nikhil2800/-Responsive-Company-Member-Team-Page/assets/154686273/3a914ea5-e5ab-43b3-90c6-200ee3ea1618)
