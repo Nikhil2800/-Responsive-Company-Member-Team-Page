@@ -1,7 +1,7 @@
 # -Responsive-Company-Member-Team-Page
 Company Member Team Page for a website. This page will showcase the members of the 
 company's team, providing visitors with information about key individuals involved in 
-the organization. I made this project using HTML5 and CSS3.
+the organization. I made this project by using HTML5 and CSS3.
 The task involves designing and implementing a responsive  The primary objective is to create a visually appealing and user-friendly 
 layout that adapts seamlessly to various screen sizes and devices.
 
