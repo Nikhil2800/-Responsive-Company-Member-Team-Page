@@ -43,7 +43,7 @@ Compress any images used on the page to improve loading times.
 Review the page to ensure all content is accurate and up-to-date.
 Make any final adjustments to the layout or styling as needed.
 
-Projects Screens :
+Project Screens :
 
 ![img1](https://github.com/Nikhil2800/-Responsive-Company-Member-Team-Page/assets/154686273/186cfb24-93ce-41ea-a448-299623399416)
 ![img2](https://github.com/Nikhil2800/-Responsive-Company-Member-Team-Page/assets/154686273/72e29a8f-1703-4e67-b0ad-c73c55d7d93a)
