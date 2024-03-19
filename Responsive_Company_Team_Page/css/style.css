@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* min-height: 100vh; */
+}
+
+.head {
+    margin:0px 0px 10px 0px;
+    
+}
+.icon{
+    text-align: end;
+    padding: 10px;
+}
+#icon{
+    color:rgb(207, 89, 243);
+    font-size: 80px;
+}
+.icon1{
+
+    padding: 10px;
+}
+
+.title {
+    text-align: center;
+    margin: 15px 0px;
+}
+
+
+#f2 {
+    background-color: rgb(207, 89, 243);
+    width: 270px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#f2 h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+}
+
+#f3 {
+    margin: 25px 10px;
+
+}
+
+#f3 p a {
+    text-decoration: none;
+    color: rgb(12, 1, 1);
+}
+
+.title h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    backdrop-filter: blur(15px);
+   
+
+}
+
+#ni {
+
+    background-color: rgb(207, 89, 243);
+    width: 270px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+#ni {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: white;
+    margin-bottom:25px ;
+
+}
+
+.card_Container{
+    text-align: center;
+}
+
+.card1{
+    width: 300px;
+    margin: auto;
+    /* text-align: center; */
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+}
+.a{
+    margin:20px 0px;
+}
+
+.card1{
+    border: 1px solid black transparent;
+
+}
+.card1 .imbBx img{
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+   
+}
+
+.hero2, .hero3{
+    margin: 20px 0px;
+}
+
+
+@media only screen and (min-width:768px){
+
+    #f3 p{
+        margin: 0px 150px 0px 150px;
+    }
+    
+ }
+ 
+ @media only screen and (min-width:1200px){
+
+ }
