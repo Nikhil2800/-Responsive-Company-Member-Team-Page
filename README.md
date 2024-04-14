@@ -5,6 +5,8 @@ the organization. I made this project by using HTML5 and CSS3.
 The task involves designing and implementing a responsive  The primary objective is to create a visually appealing and user-friendly 
 layout that adapts seamlessly to various screen sizes and devices.
 
+Netlify Link : https://responsive-company-team-page.netlify.app
+
 Steps Taken : 
 
 1. Plan our Layout : 
